@@ -7,6 +7,17 @@ Bengaluru, India\
 > an eagerness to design and implement amazing user experiences,
 > and a penchant for writing clean code.
 
+## Skills
+
+---
+
+Programming Languages
+:   TypeScript, Javascript, HTML, CSS (Proficient)
+:   C  (Beginner)
+
+Technologies
+:   React, Angular
+
 ---
 
 [PDF Version](https://aishuvrb.github.io/resume/Aishwhariya.pdf) •
