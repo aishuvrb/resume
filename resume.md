@@ -18,7 +18,65 @@ Programming Languages
 Technologies
 :   React, Angular
 
+UI Libraries
+: Tailwind CSS, Devextreme, Bootstrap
+
+Data visualization
+: D3, Echarts
+
+Tools & platforms
+: Git, Github, Figma, Storybook, Black Duck
+
+Testing
+: Jest, React Testing Library
+
+## Experience
+
 ---
+
+### Ivanti
+#### Software Engineer
+##### December 2021 - Present, Bengaluru
+
+- Developed and maintained a cross-framework UI component library (Angular and React) specifically for internal teams using **Storybook**. 
+- Collaborated with designers in **Figma** to transform designs into high-quality code.
+- Resolved frontend and dependency vulnerabilities identified through **Black duck** scans, ensuring application security and compliance.
+- Executed incremental Angular upgrades (v15 -> v20), resolving deprecated APIs, dependency issues and build configuration changes.
+- Ensured more than 85% unit test coverage for code added.
+- Developed interactive dashboards using **Echarts**, enabling better data driven insights.
+
+### Siemens Gamesa Renewable Energy
+#### Software Developer
+##### July 2019 - December 2021, Bengaluru
+
+- Developed real-time dashboards using **D3** to track equipment status and availability.
+- Implemented Azure Log Analytics dashboards for monitoring application health and alerts.
+- Maintained high quality code using **SonarQube**.
+
+## Education
+
+---
+
+### College of Engineering, Guindy, Anna University, Chennai
+#### M. E, Power System Engineering
+##### 2017 - 2019
+
+### SSN College of Engineering, Chennai
+#### B. E, Electrical and Electronics Engineering
+##### 2013 - 2017
+
+## Awards
+
+---
+
+### Top Performer Award
+#### Issued by Ivanti - Feb 2024
+
+### Spot Award
+#### Issued by Siemens Gamesa - Aug 2021
+
+### Guindyians 57 Batch Medal Endowment
+#### Issued by Anna University Chennai - Jan 2019
 
 [PDF Version](https://aishuvrb.github.io/resume/Aishwhariya.pdf) •
 [HTML Version](https://aishuvrb.github.io/resume/Aishwhariya.html) •
